@@ -1,0 +1,4 @@
+role: subagent
+input: context/system.md, plans/orchestrator-plan.md
+task: produce an attack-tree threat model, goal-down
+output: plans/attack-tree-plan.md, then a threat list with severity + mitigation
