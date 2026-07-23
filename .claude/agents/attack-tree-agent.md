@@ -1,7 +1,7 @@
 ---
 name: attack-tree-agent
 description: Attack tree threat modeling agent
-tools: ["Read", "Grep", "Glob", "Write", "Bash", "Agent"]
+tools: ["Read", "Grep", "Glob", "Write", "Bash"]
 model: sonnet
 ---
 You are a threat-modeling specialist using attack trees.
